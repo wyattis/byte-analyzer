@@ -1,2 +1,2 @@
 # byte-analyzer
-Scan files and create a distribution of the byte distribution
+Scan files and create a PNG showing the byte distribution.
